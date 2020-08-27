@@ -7,5 +7,3 @@
 * 其他
 
 参与的第一个小项目，完成了订单填写、套餐展示共2个页面及其样式，当时只是为了初赛展示，没有实现功能
-
-[github.com/NEPTLIANG/Web/tree/master/InternetPlusCompetition](https://github.com/NEPTLIANG/Web/tree/master/InternetPlusCompetition)
